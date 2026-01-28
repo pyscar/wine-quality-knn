@@ -33,7 +33,7 @@ The project uses the `WineQT.csv` dataset containing physicochemical properties 
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/pyscar/wine-quality-knn.git
 cd <your-repo-folder>
 ```
 
