@@ -5,7 +5,8 @@ A web-based application that predicts the **quality of wine** based on its physi
 ---
 ## 🔗 Live Demo
 
-[Streamlit App](https://wine-quality-knn-ew7faibofaezjhcv4egrrb.streamlit.app/)
+https://wine-quality-knn-ew7faibofaezjhcv4egrrb.streamlit.app/
+
 ---
 ## Features
 
