@@ -84,7 +84,7 @@ streamlit run wine_knn_app.py
 * Distribution of wine quality
   <img width="1013" height="597" alt="image" src="https://github.com/user-attachments/assets/a64a6b31-4c17-4532-8d34-e2a0a16532b1" />
 * Histogram of all features
-<img width="1413" height="665" alt="image" src="https://github.com/user-attachments/assets/97b0640d-f57c-4161-991d-b3252a2c3e87" />
+  <img width="1413" height="665" alt="image" src="https://github.com/user-attachments/assets/97b0640d-f57c-4161-991d-b3252a2c3e87" />
 * Confusion Matrix
   <img width="993" height="827" alt="image" src="https://github.com/user-attachments/assets/492b7a43-5ae4-4557-9d3f-a66bcf858788" />
 * Scatter plot
@@ -92,7 +92,7 @@ streamlit run wine_knn_app.py
 * Normal distribution
   <img width="631" height="441" alt="image" src="https://github.com/user-attachments/assets/de5da221-84f4-40fb-b3a0-4b624a4da7c1" />
 * Acid base quality
-* <img width="681" height="496" alt="image" src="https://github.com/user-attachments/assets/9b4f1617-1e7c-404b-b484-08ef14cfea78" />
+  <img width="681" height="496" alt="image" src="https://github.com/user-attachments/assets/9b4f1617-1e7c-404b-b484-08ef14cfea78" />
 ---
 
 ## Future Improvements
