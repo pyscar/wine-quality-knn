@@ -73,8 +73,10 @@ https://wine-quality-knn-ew7faibofaezjhcv4egrrb.streamlit.app/
 ---
 
 ## Screenshots
+<img width="1848" height="896" alt="image" src="https://github.com/user-attachments/assets/57615001-c6fd-4e5d-b75a-62a39e0a64ed" />
 
-*(Optional: add screenshots of the Streamlit app for visual preview)*
+<img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/58ee7898-0ebf-4b8f-b006-5c95efb5d250" />
+
 
 ---
 
