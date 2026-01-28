@@ -3,7 +3,10 @@
 A web-based application that predicts the **quality of wine** based on its physicochemical properties using a **K-Nearest Neighbors (KNN) model**. Users can input feature values through a **Streamlit interface** and get real-time predictions.
 
 ---
+## 🔗 Live Demo
 
+[Streamlit App](https://wine-quality-knn-ew7faibofaezjhcv4egrrb.streamlit.app/)
+---
 ## Features
 
 * Predict wine quality based on user-defined chemical features.
@@ -52,7 +55,7 @@ pip install -r requirements.txt
 1. Run the Streamlit app:
 
 ```bash
-https://wine-quality-knn-ew7faibofaezjhcv4egrrb.streamlit.app/
+streamlit run wine_knn_app.py
 ```
 
 2. Open the link provided by Streamlit in your browser.
